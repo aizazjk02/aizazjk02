@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **react, firebase**
 
-- 👯 I’m looking to collaborate on [netflix-clone](https://netflix-clone-f0f4c.web.app/)
-
 - 💬 Ask me about **react, CSS, JavaScript**
 
 - 📫 How to reach me **aizazkotwal2204@outlook.com**
