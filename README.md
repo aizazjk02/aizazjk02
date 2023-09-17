@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aizaz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **react, firebase**
+- 🌱 I’m currently learning **next JS**
 
 - 💬 Ask me about **react, CSS, JavaScript**
 
