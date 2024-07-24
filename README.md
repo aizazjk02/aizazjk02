@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react, CSS, JavaScript**
 
-- 📫 How to reach me **aizazkotwal2204@outlook.com**
+- 📫 How to reach me **aizazkotwal02@gmail.com**
 
 - ⚡ Fun fact **I don't call anime a cartoon : )**
 
